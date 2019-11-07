@@ -1,0 +1,14 @@
+Package: kptools
+Title: Functions for my workflow
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Katherine",
+           family = "Powelson",
+           role = c("aut", "cre"),
+           email = "katherine_powelson@fws.gov",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: I am building this package to meet my needs for data analysis an manipulations
+License: Apache License (>= 2.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
